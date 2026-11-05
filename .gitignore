@@ -6,3 +6,7 @@ __pycache__/
 *.pth
 data/
 models/
+dataset_raw/
+*.jpg
+*.jpeg
+*.png
